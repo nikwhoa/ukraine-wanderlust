@@ -31,6 +31,7 @@ export default function Post({ post, posts, preview }) {
         ) : (
           <>
             <article>
+              <h3>asdfasdf</h3>
               <Head>
                 <title>
                   {`${post.title} | Next.js Blog Example with ${CMS_NAME}`}
